@@ -27,7 +27,7 @@ Programación en C ,Clase 03  funciones
 
 
 
-Resumen 
+# Resumen 
 
  clonar : git clone mi-repo
 
